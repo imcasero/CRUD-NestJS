@@ -116,5 +116,5 @@ You are now ready to start using the users API! If you have any questions or iss
 <br>
 
 <center>
-Made with ❤️ by [@imcasero](https://github.com/imcasero).
+Made with ❤️ by Imcasero
 <center>
